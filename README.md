@@ -3,7 +3,7 @@
 
 
 
-
+![image](https://github.com/user-attachments/assets/2f03fda1-82db-4974-a941-17c2ed99087b)
 
 ### Key Highlights:
 Total Orders: 25,562
@@ -30,4 +30,4 @@ Focus marketing efforts on female customers aged 30–49 to maximize revenue.
 Prioritize inventory for popular sizes (L, XL) and top categories (Kurta, Set).
 Enhance customer retention strategies for high-performing sales periods (e.g., mid-year).
 Continue optimizing delivery efficiency while addressing returns and refunds.
-Let me know if you'd like further refinements!![image](https://github.com/user-attachments/assets/2f03fda1-82db-4974-a941-17c2ed99087b)
+Let me know if you'd like further refinements!
