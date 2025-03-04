@@ -1,7 +1,5 @@
 # Vrinda-Store-
 
-![image](https://github.com/user-attachments/assets/2f03fda1-82db-4974-a941-17c2ed99087b)
-
 ### Key Highlights:
 Total Orders: 25,562
 Total Sales: $17,404,147
