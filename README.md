@@ -1,4 +1,4 @@
-# Vrinda-Store-
+# Vrinda-Store Retail Analysis
 
 ### Key Highlights:
 Total Orders: 25,562
